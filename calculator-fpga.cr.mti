@@ -1,0 +1,8 @@
+{C:/GitHub/calculator-fpga/tb (1).v} {1 {vlog -work work -nocovercells {C:/GitHub/calculator-fpga/tb (1).v}
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}}
